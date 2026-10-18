@@ -37,7 +37,7 @@ Developed as part of my Data Analytics Fellowship at DataMelon Labs, this projec
 Retail-Executive-Summary-Dashboard/
 │
 ├── README.md
-└── Executive summary report.pbix
+└── Executive summary report.pdf
 
 ```
 ## 🚀 Skills Demonstrated
