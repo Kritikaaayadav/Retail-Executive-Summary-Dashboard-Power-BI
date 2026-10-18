@@ -37,8 +37,9 @@ Developed as part of my Data Analytics Fellowship at DataMelon Labs, this projec
 Retail-Executive-Summary-Dashboard/
 │
 ├── README.md
-├── Executive summary report.pbix
+└── Executive summary report.pbix
 
+```
 ## 🚀 Skills Demonstrated
 `Power BI` · `DAX` · `Retail Analytics` · `Year-over-Year Analysis` · `Data Visualisation` · `Business Intelligence`
 
